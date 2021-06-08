@@ -1,0 +1,14 @@
+{
+  "auth":
+  {
+    "RAX-AUTH:domain":
+    {
+      "name": "Rackspace"
+    },
+    "passwordCredentials":
+    {
+      "username": "rava5622",
+      "password": ""
+    }
+  }
+}
