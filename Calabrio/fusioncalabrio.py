@@ -18,5 +18,6 @@ def test_fusioncalabrio():
 
     resp = requests.get(url, headers=headers)
     resp_json = resp.json()
-    print(resp_json)
+    #print(resp_json)
+
 test_fusioncalabrio()
