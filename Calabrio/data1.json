@@ -1,2 +1,3 @@
-{ "subject": "This is a test ticket", "description": "This is a description for a test ticket", "category_id": "ord-0002312", "sub_category_id": "ord-0001616"
- , "group": "Global Windows - Fazure", "classification": "Incident", "products": ["https://prodrackspacesupport.service-now.com/nav_to.do?uri=%2Fcmdb_ci_list.do%3Fsysparm_query%3Du_account_id%253Db263589e-eba1-47f0-acc4-a15d857d8c05"] }
+{ "subject": "This is a test ticket", "description": "This is a description for a test ticket", "category_id": "10", "sub_category_id": "33"
+ , "group": "Quality Engineering", "classification": "Incident", "products": ["https://prodrackspacesupport.service-now.com/nav_to.do?uri=%2Fcmdb_ci_list.do%3Fsysparm_query%3Du_account_id%253Db263589e-eba1-47f0-acc4-a15d857d8c05"] }
+
